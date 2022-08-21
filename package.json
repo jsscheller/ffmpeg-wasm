@@ -1,0 +1,19 @@
+{
+  "name": "@jspawn/ffmpeg-wasm",
+  "version": "0.0.1",
+  "description": "FFmpeg compiled to WASM",
+  "main": "ffmpeg.js",
+  "module": "ffmpeg.mjs",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha.js tests --node-option no-wasm-tier-up"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsscheller/ffmpeg-wasm.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {}
+}

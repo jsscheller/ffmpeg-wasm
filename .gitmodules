@@ -1,0 +1,51 @@
+[submodule "lib/x264"]
+	path = lib/x264
+	url = https://github.com/mirror/x264.git
+[submodule "lib/x265"]
+	path = lib/x265
+	url = https://github.com/videolan/x265.git
+[submodule "lib/zlib"]
+	path = lib/zlib
+	url = https://github.com/ImageMagick/zlib.git
+[submodule "lib/libvpx"]
+	path = lib/libvpx
+	url = https://github.com/webmproject/libvpx.git
+[submodule "lib/WavPack"]
+	path = lib/WavPack
+	url = https://github.com/dbry/WavPack.git
+[submodule "lib/lame"]
+	path = lib/lame
+	url = https://github.com/despoa/LAME.git
+[submodule "lib/fdk-aac"]
+	path = lib/fdk-aac
+	url = https://github.com/mstorsjo/fdk-aac.git
+[submodule "lib/ogg"]
+	path = lib/ogg
+	url = https://gitlab.xiph.org/xiph/ogg.git
+[submodule "lib/vorbis"]
+	path = lib/vorbis
+	url = https://gitlab.xiph.org/xiph/vorbis.git
+[submodule "lib/theora"]
+	path = lib/theora
+	url = https://gitlab.xiph.org/xiph/theora.git
+[submodule "lib/opus"]
+	path = lib/opus
+	url = https://github.com/xiph/opus.git
+[submodule "lib/libwebp"]
+	path = lib/libwebp
+	url = https://github.com/webmproject/libwebp.git
+[submodule "lib/freetype2"]
+	path = lib/freetype2
+	url = https://github.com/ffmpegwasm/freetype2.git
+[submodule "lib/fribidi"]
+	path = lib/fribidi
+	url = https://github.com/fribidi/fribidi.git
+[submodule "lib/harfbuzz"]
+	path = lib/harfbuzz
+	url = https://github.com/harfbuzz/harfbuzz.git
+[submodule "lib/libass"]
+	path = lib/libass
+	url = https://github.com/libass/libass.git
+[submodule "lib/FFmpeg"]
+	path = lib/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
